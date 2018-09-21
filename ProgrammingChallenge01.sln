@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositiveOrNegative", "Progr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhichIsGreater", "WhichIsGreater\WhichIsGreater.csproj", "{2EB3A688-D06A-40C8-9B76-DFECA976288B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EbbeSolution", "EbbeSolution\EbbeSolution.csproj", "{A11B5A2A-9966-4D67-BA9D-E8EEA6146C12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2EB3A688-D06A-40C8-9B76-DFECA976288B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EB3A688-D06A-40C8-9B76-DFECA976288B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EB3A688-D06A-40C8-9B76-DFECA976288B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A11B5A2A-9966-4D67-BA9D-E8EEA6146C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11B5A2A-9966-4D67-BA9D-E8EEA6146C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11B5A2A-9966-4D67-BA9D-E8EEA6146C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11B5A2A-9966-4D67-BA9D-E8EEA6146C12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
